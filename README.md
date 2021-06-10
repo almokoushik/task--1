@@ -5,4 +5,4 @@ Components:
 
 Tools and Language: React, Bootstrap, CSS, Context API( No need for redux for small application)
 
-NB: A message can be sent as a confirmation to the user's email but the instruction was only store data.
+NB: A message can be sent as a confirmation to the user's email but the instruction was only store data
