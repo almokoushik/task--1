@@ -7,7 +7,6 @@ Components:
           information, the user can't submit it. After clicking submit button user data will be sent to the main App component via context API, and it can be obtained from
           all components. An alert window will appear if it can set the user information and again go to the home component.
           
-
 Tools and Language: React, Bootstrap, CSS, Context API( No need for redux for small application)
 
 
